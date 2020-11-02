@@ -1,0 +1,68 @@
+Democrats and Republicans in Washington make common cause on few issues these days, but recently they have found a common enemy: Google.
+
+On Tuesday, the Justice Department filed an antitrust lawsuit accusing the tech behemoth of illegally protecting its monopoly over online search services and the ads that run on them, a move that could prove to be the government’s most significant challenge to a tech company’s market power since it took on Microsoft in 1998.
+
+Republican attorneys general from 11 states have signed on to the lawsuit, but it has also earned support from high-profile Democrats like Letitia James, the attorney general of New York, and Senator Elizabeth Warren. Why has Washington united against one of America’s most successful and popular companies, and how could the case change the internet as we know it? Here’s what people are saying.
+
+What the suit says
+“Two decades ago,” the lawsuit begins, “Google became the darling of Silicon Valley as a scrappy startup with an innovative way to search the emerging internet. That Google is long gone.” Here are some of the Justice Department’s central complaints:
+
+A shady path to dominance: Google made its search engine the default option for users by striking multibillion-dollar deals with mobile carriers, smartphone makers and giant partners like Apple.
+
+Shutting out the competition: Partly as a result of those deals, Google now controls 88 percent of the U.S. search engine market, an unparalleled power the company uses to effectively prevent alternative search engines from competing.
+
+A monopoly on advertising: By monopolizing search, Google has also monopolized the search ad market, which the suit argues is distinct from the broader digital advertising market in which companies like Facebook and Amazon also compete. Why does any of this matter to ordinary people?
+The Justice Department’s case against Google rests on some of the country’s oldest antitrust laws, including its first, the Sherman Antitrust Act of 1890. Under the regnant interpretation of those laws, the Justice Department will have to prove not only that Google dominates the search industry, but also that its dominance harms consumers.
+
+Whether that criterion, which took hold in the 1970s and is known as the consumer welfare standard, is mistakenly narrow and needs updating for the digital era is a subject of much debate: Google, like Facebook, has argued that it doesn’t harm consumers, since its flagship product costs them nothing to use. But as Lina M. Khan, a professor at Columbia Law School, argued in an influential Yale Law Journal article in 2017, price is not the only metric by which to measure anti-competitive behavior, and consumer satisfaction with a company does not prove the absence of harm. “The harm is to competition,” Tim Wu, also a professor at Columbia Law School, told The Times, “and the consumer loses as a result.” How?
+
+Hidden costs: As my colleague David Leonhardt notes, Google’s control over search means it can charge marketers higher fees for ads, which may pose a burden to small businesses and drive up the prices of the goods being advertised.
+
+Declining search quality: Because users have so few alternatives, Google doesn’t have much incentive to optimize its search engine for user satisfaction. “Without us even realizing it, the Internet’s most-used website has been getting worse,” Geoffrey A. Fowler writes in The Washington Post. “On too many queries, Google is more interested in making search lucrative than a better product for us.”
+
+A weakened press: As Matt Stoller wrote in The Times last year, many news organizations have virtually no choice now but to depend on Google and Facebook to reach readers and fund their operations. This centralization of power, Mr. Stoller argues, poses two crises: a financial crisis, because advertising revenue that used to go to publishers is now captured by big tech intermediaries, causing the news industry to collapse; and an editorial one, because media’s dependency on a handful of platforms incentivizes virality and sensationalism over high-quality journalism.
+
+Lost privacy: Google doesn’t charge users a cash price, but that doesn’t mean it’s free. “When a consumer uses Google, the consumer provides personal information and attention in exchange for search results,” the lawsuit reads. “Google then monetizes the consumer’s information and attention by selling ads.” Because Google’s search engine has no true rivals, users have little recourse if they are dissatisfied with the company’s data collection practices.
+
+What would trustbusting Google look like?
+The Justice Department’s lawsuit calls on Google to “enter structural relief as needed to cure any anticompetitive harm,” but it doesn’t specify any preferred remedies, such as selling off parts of the company or voiding its restrictive contracts.
+
+The latter idea, however, seems like one of the cures the Justice Department might pursue in court: Google, the lawsuit claims, pays $8 billion to $12 billion a year to Apple in exchange for making Google the default search engine across all of its devices. That has made the two tech giants heavily reliant on each other to the exclusion of other search engines.
+
+But in The Washington Post, Megan McArdle argues that prohibiting such deals wouldn’t do much at this point to challenge Google’s dominance: People will simply opt to make it their default search engine anyway out of habit and convenience.
+
+To meaningfully increase competition in the search engine market, she argues, the government would have to divide Google’s index of hundreds of billions of web pages among two or more companies. “As a result,” she writes, “everyone’s searches would probably become less accurate and useful than the ones we’re getting now, because no one company would have enough data to refine those searches as well as Google currently does.”
+
+But in The Times, Jonathan Taplin has argued that Google’s status as a natural monopoly is no excuse for government inaction. In fact, quite the opposite: As a historical analogy, he describes the early days of telecommunications when phone wires were owned by different companies, making it impossible to call someone whose phone was serviced by a different provider. The solution was to consolidate those companies into a single network, the Bell System, and then to regulate it through the Federal Communications Commission to ensure it operated in the public’s interest. (The Bell System was broken up in 1984 as telecommunication technologies evolved.)
+
+Today, Mr. Taplin proposes, Google should also be regulated more like a public utility, required to license out patents for its search algorithms and other innovations.
+
+As for its advertising business, Dina Srinivasan, an antitrust scholar, argues that it should be regulated to ensure that Google no longer benefits from the unfair advantage that comes from running the world’s largest digital ad market exchange in which it also competes as one of the largest buyers and sellers. But as Lina M. Khan, a professor at Columbia Law School, argued in an influential Yale Law Journal article in 2017, price is not the only metric by which to measure anti-competitive behavior, and consumer satisfaction with a company does not prove the absence of harm. “The harm is to competition,” Tim Wu, also a professor at Columbia Law School, told The Times, “and the consumer loses as a result.” How?
+
+Hidden costs: As my colleague David Leonhardt notes, Google’s control over search means it can charge marketers higher fees for ads, which may pose a burden to small businesses and drive up the prices of the goods being advertised.
+
+Declining search quality: Because users have so few alternatives, Google doesn’t have much incentive to optimize its search engine for user satisfaction. “Without us even realizing it, the Internet’s most-used website has been getting worse,” Geoffrey A. Fowler writes in The Washington Post. “On too many queries, Google is more interested in making search lucrative than a better product for us.”
+
+A weakened press: As Matt Stoller wrote in The Times last year, many news organizations have virtually no choice now but to depend on Google and Facebook to reach readers and fund their operations. This centralization of power, Mr. Stoller argues, poses two crises: a financial crisis, because advertising revenue that used to go to publishers is now captured by big tech intermediaries, causing the news industry to collapse; and an editorial one, because media’s dependency on a handful of platforms incentivizes virality and sensationalism over high-quality journalism.
+
+Lost privacy: Google doesn’t charge users a cash price, but that doesn’t mean it’s free. “When a consumer uses Google, the consumer provides personal information and attention in exchange for search results,” the lawsuit reads. “Google then monetizes the consumer’s information and attention by selling ads.” Because Google’s search engine has no true rivals, users have little recourse if they are dissatisfied with the company’s data collection practices.
+
+What would trustbusting Google look like?
+The Justice Department’s lawsuit calls on Google to “enter structural relief as needed to cure any anticompetitive harm,” but it doesn’t specify any preferred remedies, such as selling off parts of the company or voiding its restrictive contracts.
+
+The latter idea, however, seems like one of the cures the Justice Department might pursue in court: Google, the lawsuit claims, pays $8 billion to $12 billion a year to Apple in exchange for making Google the default search engine across all of its devices. That has made the two tech giants heavily reliant on each other to the exclusion of other search engines.
+
+But in The Washington Post, Megan McArdle argues that prohibiting such deals wouldn’t do much at this point to challenge Google’s dominance: People will simply opt to make it their default search engine anyway out of habit and convenience.
+
+To meaningfully increase competition in the search engine market, she argues, the government would have to divide Google’s index of hundreds of billions of web pages among two or more companies. “As a result,” she writes, “everyone’s searches would probably become less accurate and useful than the ones we’re getting now, because no one company would have enough data to refine those searches as well as Google currently does.”
+
+But in The Times, Jonathan Taplin has argued that Google’s status as a natural monopoly is no excuse for government inaction. In fact, quite the opposite: As a historical analogy, he describes the early days of telecommunications when phone wires were owned by different companies, making it impossible to call someone whose phone was serviced by a different provider. The solution was to consolidate those companies into a single network, the Bell System, and then to regulate it through the Federal Communications Commission to ensure it operated in the public’s interest. (The Bell System was broken up in 1984 as telecommunication technologies evolved.)
+
+Today, Mr. Taplin proposes, Google should also be regulated more like a public utility, required to license out patents for its search algorithms and other innovations.
+
+As for its advertising business, Dina Srinivasan, an antitrust scholar, argues that it should be regulated to ensure that Google no longer benefits from the unfair advantage that comes from running the world’s largest digital ad market exchange in which it also competes as one of the largest buyers and sellers. What’s next?
+If past antitrust cases are any indication, this lawsuit is likely to stretch on for years, and Google has a significant edge in the fight. As Greg Bensinger writes in The Times, the company has the best antitrust defense attorneys in the country, as well as $17.7 billion in cash on hand as of June; the Justice Department’s antitrust division, by contrast, has a 2020 budget of $167 million. At the moment, the odds are that Google’s dominance isn’t seriously under threat.
+
+Still, the Justice Department’s move could set off a cascade of similar lawsuits against big tech companies. For over a year now, federal agencies have been conducting antitrust investigations into Facebook, and less than three months ago Congress summoned the chief executives of the “big four” tech companies — Google, Amazon, Facebook and Apple — for interrogation about their anti-competitive practices.
+
+In Mr. Wu’s eyes, the suit has already sent a powerful message. “The complaint marks the return of the U.S. government to a role that many of us long feared it had abandoned,” he writes in The Times. “This is why the lawsuit has a significance greater than itself: It is a reminder that even the most powerful private companies must reckon with the still greater power of the people.”
