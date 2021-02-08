@@ -13,3 +13,8 @@ I also do not own any of the articles that I have uploaded here as a part of an 
 
 I will soon curate an ownership list for each of the articles. Until then, if you are curious about the origin of the article, 
 do email me at adithyan@buffalo.edu and I will gladly track the link down for you. 
+
+TODO:
+
+- Fix scoring mechanism to normalize it by size. 
+- Annotate data to check its effectiveness across more articles.
