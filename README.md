@@ -4,7 +4,7 @@ Tool that analyzes news articles that are fed to it by resolving coreference for
 subject entity being discussed, and and scoring all subsets of sequential sentences of a given size in a document using spaCy
 and NLTK Vader to compute an overall polarity for the document w.r.t subject entity
 
-To know more, read draft of article about this here: https://medium.com/@adithya-narayanan/macgyvering-a-large-scale-text-polarity-analyzer-studying-news-article-polarity-e0ab5c2fb209
+To know more, read draft of article about this here: https://medium.com/@adithya-narayanan/macgyvering-a-large-scale-text-polarity-analyzer-studying-news-article-polarity-e0ab5c2fb209  [article discusses logic and preliminary results - will be published end of March 2020 after I test this tool more robusly]
 
 Check out neuralcoref here: https://github.com/huggingface/neuralcoref
 
